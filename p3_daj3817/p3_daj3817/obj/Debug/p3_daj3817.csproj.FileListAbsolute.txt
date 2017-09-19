@@ -1,0 +1,9 @@
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p3_daj3817\p3_daj3817\bin\Debug\p3_daj3817.exe.config
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p3_daj3817\p3_daj3817\bin\Debug\p3_daj3817.exe
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p3_daj3817\p3_daj3817\bin\Debug\p3_daj3817.pdb
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p3_daj3817\p3_daj3817\obj\Debug\p3_daj3817.csprojResolveAssemblyReference.cache
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p3_daj3817\p3_daj3817\obj\Debug\p3_daj3817.Form1.resources
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p3_daj3817\p3_daj3817\obj\Debug\p3_daj3817.Properties.Resources.resources
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p3_daj3817\p3_daj3817\obj\Debug\p3_daj3817.csproj.GenerateResource.Cache
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p3_daj3817\p3_daj3817\obj\Debug\p3_daj3817.exe
+c:\users\dntjn\onedrive\documents\visual studio 2015\Projects\p3_daj3817\p3_daj3817\obj\Debug\p3_daj3817.pdb
